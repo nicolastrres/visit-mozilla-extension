@@ -1,0 +1,12 @@
+{
+  "title": "visiting",
+  "name": "visiting",
+  "version": "0.0.1",
+  "description": "Extension to visit mozilla web site",
+  "main": "index.js",
+  "author": "Nicolas Agustin Torres - Firefox tutorial",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT"
+}
